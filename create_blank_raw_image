@@ -6,4 +6,5 @@ sh-4.2# find / -name disk.img
 /var/lib/heketi/mounts/vg_877b82b04ac5a0f6c240df2d7519ab50/brick_9dc26dc97222da30ba229ed29a6e9547/brick/disk.img
 sh-4.2# ls -lsh /var/lib/heketi/mounts/vg_877b82b04ac5a0f6c240df2d7519ab50/brick_9dc26dc97222da30ba229ed29a6e9547/brick/disk.img
 0 -rw-r--r--. 2 1000370000 2000 500M Mar 11 07:45 /var/lib/heketi/mounts/vg_877b82b04ac5a0f6c240df2d7519ab50/brick_9dc26dc97222da30ba229ed29a6e9547/brick/disk.img
+
 ```
